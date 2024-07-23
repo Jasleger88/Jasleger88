@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasleger88
+- 👋 Hi, I’m Jasmine Leger
 - 👀 I’m interested in crossfit workouts, learning new ways to code and love to spend time with my daughter. 
 - 🌱 I’m currently learning how to code and become better each and everyday.
 - 💞️ I am seeking collaboration opportunities on various projects and am eager to work on mini-projects to enhance my coding skills.
